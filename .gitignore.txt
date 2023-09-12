@@ -1,1 +1,2 @@
-*.html
+#Ignore these files
+*test.html
