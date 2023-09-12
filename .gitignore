@@ -1,3 +1,4 @@
 #Ignore these files
 *test.html
-*.css
+*style.css
+*index.html
